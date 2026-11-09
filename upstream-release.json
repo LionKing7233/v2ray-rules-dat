@@ -1,9 +1,9 @@
 {
   "upstream_repository": "Loyalsoldier/v2ray-rules-dat",
-  "upstream_tag": "202611072203",
-  "upstream_url": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202611072203",
+  "upstream_tag": "202611082203",
+  "upstream_url": "https://github.com/Loyalsoldier/v2ray-rules-dat/releases/tag/202611082203",
   "patch": "CN minus HK (IPv4 and IPv6)",
-  "patch_commit": "3ebb4163def4ecfacdc848b570d2bb70a269de9e",
+  "patch_commit": "405d9735c5571e97a79585d9dc1e0f3590a7142f",
   "upstream_geoip_sha256": "90b78ab861c1cdc3f871f305f9ceedfb8d6d6329e3a40295e6773e057297384c",
   "patched_geoip_sha256": "44aa0759295bc84be551655e239437a1422a91eae90ae09dc48090062a6784a4",
   "removed_ipv4_addresses": 120593,
