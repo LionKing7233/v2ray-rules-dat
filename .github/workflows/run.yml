@@ -3,7 +3,7 @@ name: Follow upstream releases
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '22 2 * * *'
 
 permissions:
   contents: write
